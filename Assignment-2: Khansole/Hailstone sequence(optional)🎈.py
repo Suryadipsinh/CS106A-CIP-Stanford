@@ -15,7 +15,7 @@ def main():
     while num != 1:
         # if the  number is even then take the half of the number
         if num % 2 == 0 :
-            even = num/2
+            even = num//2
             print(str(num)+ " is even, so I take half: "+ str(even))
             num = even
             step += 1
