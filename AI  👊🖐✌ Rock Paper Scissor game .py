@@ -32,6 +32,7 @@ def main():
         declare_result(ai_move, winner)
         score += get_score(winner)
     print("Your score is ", score)
+    
 
 def get_score(winner):
     """
