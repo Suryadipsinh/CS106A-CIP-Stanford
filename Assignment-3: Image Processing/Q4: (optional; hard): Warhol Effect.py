@@ -66,3 +66,4 @@ def make_recolored_patch(red_scale, green_scale, blue_scale):
 
 if __name__ == '__main__':
     main()
+    
