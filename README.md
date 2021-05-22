@@ -1,6 +1,5 @@
 # Stanford-CS106A-Code-in-Place
-![stanford cip logo](https://user-images.githubusercontent.com/77860201/119241828-fff95f00-bb76-11eb-8f76-0cad284e4b2c.jpg)
-
+![image](https://user-images.githubusercontent.com/77860201/119242217-bc542480-bb79-11eb-8f4f-10b415ac70a6.png)
 
 This repository showcases my learning during Apr-May 2021, when I was a part of CS106A - Code in Place by, an introductory programming course using the Python language, offered by Stanford University during the time of Covid-19.
 
@@ -10,10 +9,10 @@ The course was centered around engaging assignments, had weekly live video secti
 
 Concepts covered:
 
-Control Flow
-Variables and Expressions
-Functions and Decomposition
-Images
-Lists and Dictionaries
-Text Processing
-Data science
+- Control Flow
+- Variables and Expressions
+- Functions and Decomposition
+- Images
+- Lists and Dictionaries
+- Text Processing
+- Data science
