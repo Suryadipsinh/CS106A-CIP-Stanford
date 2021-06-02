@@ -6,6 +6,9 @@ Developed this as my Final Project for the <a href=
 "https://news.stanford.edu/2021/03/22/famous-stanford-coding-course-free-online/i">'Code In Place-2021'</a>, a remote learning experience offered by the Stanford University under Prof. Mehran Sahami, Prof. Chris Piech and 800+ Section Leaders teaching 10,000 students all over the world!
 
 # About the game
+
+![Snake demo  (2)](https://user-images.githubusercontent.com/77860201/120502870-6cc6f180-c3e0-11eb-92e6-e0ad04cdf4fa.png)
+
 About the Game:
 Following is a walk-through showcasing the game:
 <ul>
@@ -60,3 +63,5 @@ Libraries used: Pygame, random, time
 <li><strong>Apples appear at random positions</strong> one after the other.</li>
 <li><strong>Snake is checked for overlaps</strong> (either with food, itself) and actions are taken accordingly to either eat the food &amp; increase the score OR kill the snake.</li>
 </ul>
+
+You tube video Link: https://youtu.be/WVGPh0qBtAw
