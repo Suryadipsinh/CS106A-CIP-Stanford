@@ -65,3 +65,5 @@ Libraries used: Pygame, random, time
 </ul>
 
 You tube video Link: https://youtu.be/WVGPh0qBtAw
+
+Project showcase at Stanford's Website: https://codeinplace.stanford.edu/2021/showcase/244
